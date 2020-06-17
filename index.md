@@ -2,4 +2,4 @@
 author: Jungsik Choi
 ---
 
-{% include video/200524.html %} 
+[![Video Label](http://img.youtube.com/vi/c2ubbbh0c8M/0.jpg)](https://youtu.be/c2ubbbh0c8M?t=0s)
